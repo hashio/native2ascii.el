@@ -13,6 +13,7 @@ Setup
 1. you need install native2ascii. Oracle JDK have it.
 
 2. write this to your .emacs.
+
     ;;;
     ; if Windows need set this 2 lines
     ; (setq native2ascii-command-format "native2ascii.exe")
