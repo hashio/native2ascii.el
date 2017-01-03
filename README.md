@@ -1,11 +1,13 @@
 Copyright 2009 Takahiro Hashimoto
+
 All rights reserved.
 
 native2ascii
 ============
 
 This program is a emacs major-mode.
-Read and write ascii encoding file like a Java properties by native2ascii of Sun's JDK
+
+Read and write ascii encoding file that native2ascii commnad of Sun's JDK
 
 Setup
 =====
