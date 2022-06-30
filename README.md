@@ -1,7 +1,3 @@
-Copyright 2009 Takahiro Hashimoto
-
-All rights reserved.
-
 native2ascii
 ============
 
